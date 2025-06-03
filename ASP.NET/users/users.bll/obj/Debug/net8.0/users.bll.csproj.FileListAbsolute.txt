@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.bll\obj\Debug\net8.0\users.bll.MvcApplicationPartsAssemblyInfo.cache

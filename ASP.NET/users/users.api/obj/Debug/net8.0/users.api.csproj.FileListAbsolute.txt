@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\vruti\ASP.NET\users\users.api\obj\Debug\net8.0\users.api.MvcApplicationPartsAssemblyInfo.cache

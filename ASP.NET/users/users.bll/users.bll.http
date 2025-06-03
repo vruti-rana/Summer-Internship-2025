@@ -1,0 +1,6 @@
+@users.bll_HostAddress = http://localhost:5053
+
+GET {{users.bll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

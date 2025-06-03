@@ -1,0 +1,44 @@
+﻿@page "/employee-list"
+
+<h2>Employee List</h2>
+
+<a href="/Employeecontroller/Create" class="btn btn-primary">Add New Employee</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Employees)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Email</td>
+                <td>@emp.Department</td>
+                <td>
+                    <a href="/Employeecontroller/Edit/@emp.Id">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    // Local variable or property to hold the list of employees
+    List<userportal.Models.Employee> Employees = new List<userportal.Models.Employee>
+    {
+        new userportal.Models.Employee { Id = 1, Name = "John Doe", Email = "john@example.com", Department = "HR" },
+        new userportal.Models.Employee { Id = 2, Name = "Jane Smith", Email = "jane@example.com", Department = "IT" },
+        new userportal.Models.Employee { Id = 3, Name = "Alice Johnson", Email = "alice@example.com", Department = "Finance" },
+        // Add more data as needed
+    };
+}
+
+

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|solutionrelative:users.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|solutionrelative:users.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AAC2F9-63EF-496E-940C-17688427E922}|users.api\\users.api.csproj|solutionrelative:users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|solutionrelative:users.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5653CDA-88E9-43E3-AD07-372C9F4DC0A9}|users.bll\\users.bll.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5653CDA-88E9-43E3-AD07-372C9F4DC0A9}|users.bll\\users.bll.csproj|solutionrelative:users.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|solutionrelative:users.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED20BCA-D52E-4598-883D-BAF8B75C60E8}|users.dal\\users.dal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED20BCA-D52E-4598-883D-BAF8B75C60E8}|users.dal\\users.dal.csproj|solutionrelative:users.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.core\\users.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|solutionrelative:users.core\\users.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED20BCA-D52E-4598-883D-BAF8B75C60E8}|users.dal\\users.dal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.dal\\userscontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED20BCA-D52E-4598-883D-BAF8B75C60E8}|users.dal\\users.dal.csproj|solutionrelative:users.dal\\userscontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\users\\users.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B165BD-D00D-4BE0-9E37-AA8972B9ED83}|users.core\\users.core.csproj|solutionrelative:users.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\appsettings.json",
+              "RelativeDocumentMoniker": "users.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\appsettings.json",
+              "RelativeToolTip": "users.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T09:17:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\Program.cs",
+              "RelativeDocumentMoniker": "users.api\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\Program.cs",
+              "RelativeToolTip": "users.api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:16:13.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "users.api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "users.api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:15:42.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "users.core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "users.core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:14:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.bll\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "users.bll\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.bll\\Services\\UserService.cs",
+              "RelativeToolTip": "users.bll\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:13:31.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "users.core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "users.core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:10:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.dal\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "users.dal\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.dal\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "users.dal\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:06:23.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersContexts.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.dal\\UsersContexts.cs",
+              "RelativeDocumentMoniker": "users.dal\\UsersContexts.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.dal\\UsersContexts.cs",
+              "RelativeToolTip": "users.dal\\UsersContexts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:03:12.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "users.core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\Models\\User.cs",
+              "RelativeToolTip": "users.core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:01:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.core.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\users.core.csproj",
+              "RelativeDocumentMoniker": "users.core\\users.core.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\users\\users.core\\users.core.csproj",
+              "RelativeToolTip": "users.core\\users.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T09:00:52.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

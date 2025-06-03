@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\view\\employeecontroller\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\view\\employeecontroller\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\view\\employeecontroller\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\view\\employeecontroller\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\business\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\userportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\userportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|c:\\users\\lenovo\\desktop\\vruti\\asp.net\\userportal\\userportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E85DB7-41CE-4E4F-B7B3-1BA9A166F1EC}|userportal\\userportal.csproj|solutionrelative:userportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Program.cs",
+              "RelativeDocumentMoniker": "userportal\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Program.cs",
+              "RelativeToolTip": "userportal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:12:34.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\View\\Employeecontroller\\Edit.razor",
+              "RelativeDocumentMoniker": "userportal\\View\\Employeecontroller\\Edit.razor",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\View\\Employeecontroller\\Edit.razor",
+              "RelativeToolTip": "userportal\\View\\Employeecontroller\\Edit.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T06:55:32.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\View\\Employeecontroller\\Index.razor",
+              "RelativeDocumentMoniker": "userportal\\View\\Employeecontroller\\Index.razor",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\View\\Employeecontroller\\Index.razor",
+              "RelativeToolTip": "userportal\\View\\Employeecontroller\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T06:53:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employeecontroller.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Controllers\\Employeecontroller.cs",
+              "RelativeDocumentMoniker": "userportal\\Controllers\\Employeecontroller.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Controllers\\Employeecontroller.cs",
+              "RelativeToolTip": "userportal\\Controllers\\Employeecontroller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:44:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employeebusiness.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Business\\Employeebusiness.cs",
+              "RelativeDocumentMoniker": "userportal\\Business\\Employeebusiness.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Business\\Employeebusiness.cs",
+              "RelativeToolTip": "userportal\\Business\\Employeebusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:42:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employeedata.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Data\\Employeedata.cs",
+              "RelativeDocumentMoniker": "userportal\\Data\\Employeedata.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Data\\Employeedata.cs",
+              "RelativeToolTip": "userportal\\Data\\Employeedata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:31:49.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "userportal\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\Models\\Employee.cs",
+              "RelativeToolTip": "userportal\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:30:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userportal.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\userportal.csproj",
+              "RelativeDocumentMoniker": "userportal\\userportal.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\vruti\\ASP.NET\\userportal\\userportal\\userportal.csproj",
+              "RelativeToolTip": "userportal\\userportal.csproj",
+              "ViewState": "AgIAABIAAABAqpLJTXsrwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T06:14:42.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

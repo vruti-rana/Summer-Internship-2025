@@ -1,0 +1,39 @@
+﻿@page "/edit"
+@using userportal.Models
+@using userportal.Business
+@using Microsoft.AspNetCore.Components.Forms
+@inject Employeebusiness employeeService
+
+<h2>Edit Employee</h2>
+
+<EditForm Model="@employee" OnValidSubmit="UpdateEmployee">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Name</label>
+        <InputText @bind-Value="employee.Name" class="form-control" />
+    </div>
+
+    <div>
+        <label>Email</label>
+        <InputText @bind-Value="employee.Email" class="form-control" />
+    </div>
+
+    <div>
+        <label>Department</label>
+        <InputText @bind-Value="employee.Department" class="form-control" />
+    </div>
+
+    <button type="submit">Update</button>
+</EditForm>
+
+@code {
+    private Employee employee = new Employee();
+
+    private async Task UpdateEmployee()
+    {
+        // Save logic here
+        await employeeService.UpdateEmployee(employee);
+    }
+}
